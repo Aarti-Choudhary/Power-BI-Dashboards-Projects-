@@ -1,2 +1,2 @@
-# Power-BI-Dashboards-Projects-
-Here is my all business intelligence projects!
+# Sales_Dashboard_Using_Powerbi
+My first business intelligence Dashboard 
